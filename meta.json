@@ -1,0 +1,23 @@
+{
+  "jiraBaseUrl": "https://bandadev.atlassian.net",
+  "jiraEmail": "mihail_unity.developer@trafficdevils.net",
+  "jiraToken": "ATATT3xFfGF0lpNFGGG0jkSDqAlU6nB7nOAlMalI5TerkFG3ZhCn-HeWPQZyAGiFf6CoFn8cqHgMAx-RYHpjWB1i66_PFepIJCRTdkJzOI1rC4QjjwOgmq-Efeo0lTvB9aH50Qa8lObqGUY42RNAQqH2n5hGc3p1Lq7Khxnb0TUmpxLsE-sdW3s=C2A69092",
+  "jiraIssue": "3679",
+  "appName": "Lucky Vibes",
+  "packageName": "com.FxQnJvL.mKzTpR",
+  "versionCode": 1,
+  "versionName": "1.0",
+  "encryption": "typex",
+  "npmInstall": true,
+  "readyBuildsDir": "C:\\Users\\EvoReD\\Desktop\\ReadyBuilds",
+  "helperRoot": "E:\\TD\\CursorExtensions\\ReactNativeAppHelperExtension\\vscode-rn-app-helper-root",
+  "decoy": {
+    "androidAddMin": 8,
+    "androidAddMax": 14,
+    "servicesAddMin": 2,
+    "servicesAddMax": 9,
+    "minGap": 5
+  },
+  "adjustToken": "k44n6fa55t6o",
+  "hostFragment": "jsdkjehjwelys"
+}
