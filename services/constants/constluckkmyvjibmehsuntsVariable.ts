@@ -10,8 +10,7 @@ export const finluckkmyvjibmehsuKey = "fineluckkmyvjibmehsuyKeyalUrl";
 
 export const LAST_luckkmyvjibmehsuKEY = 'LastWeluckkmyvjibmehsubViewUrl';
 
-// export const liluckkmyvjibmehsunk = 'F2DAB88D62E82330265692A09727B9F9C90A5A850469';
-export const liluckkmyvjibmehsunk = '';
+export const liluckkmyvjibmehsunk = 'F2DAB88D62E82330265692A09727B9F9C90A5A850469';
 
 export const STORAGE_luckkmyvjibmehsuKEYS = {
 
